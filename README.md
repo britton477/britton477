@@ -7,4 +7,5 @@ I started my journey into the wide world of software development in AUG 2022 wit
 - 💬 Outside the world of tech, my fulltime job as a housing support worker for a charity takes a lot of my time, but you can also find me in the gym.  
 - 🎬 My favourite movie is Django Unchained, an absolute masterpiece from Quentin Tarantino.  
 - 🛫 I enjoy traveling, although I havent been abroad since 2019 where I travelled solo across Cambodia and Thailand.  
-- 🦊 You can follow my latest project on gitlabs --> https://gitlab.com/britton477
+- 🦊 You can follow my latest project on gitlabs --> https://gitlab.com/britton477  
+- 📧 You can contact me on contact@axbritton.co.uk
